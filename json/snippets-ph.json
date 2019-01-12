@@ -1,0 +1,15 @@
+{
+	"variables": {
+		"lang": "en",
+		"locale": "en-US",
+		"charset": "UTF-8",
+	},
+
+	"html": {
+		"filters": "html",
+		"profile": "html",
+		"snippets": {
+			"i:ph": "img[src=\"https://via.placeholder.com/|\"]"
+		}
+	}
+}
