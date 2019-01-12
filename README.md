@@ -2,10 +2,13 @@
 
 # Placeholder IMAGE Snippets for EMMET-Vim
 
-Fastly image via.placeholder service snippet
+Fastly image placeholder service snippet (From [placeholder.com](placeholder.com))
 
+![presentation of snippet](./img/snippets-ph.gif)
 
-![snippet in action](./img/snippets-ph.gif)
+```
+i:ph
+```
 
 ## REQUIRED
 
@@ -13,14 +16,18 @@ Fastly image via.placeholder service snippet
 * [EMMET-VIM](https://vimawesome.com/plugin/emmet-vim)
 * [WEBAPI-VIM](https://vimawesome.com/plugin/emmet-vim)
 
-## SOURCES & HELPFUL DOC
+## SOURCES & HELPFUL DOCS
 
 * https://docs.emmet.io/cheat-sheet/
 * https://docs.emmet.io/customization/snippets/
 * https://github.com/emmetio/emmet/blob/master/lib/snippets.json
-
+* https://placeholder.com/
 
 ## THANKS TO
 
 * mattn for "emmet-vim" & "webapi-vim"
 * djefry for the logo
+
+## LICENCE
+
+MIT
