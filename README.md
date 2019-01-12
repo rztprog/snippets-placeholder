@@ -14,7 +14,7 @@ i:ph
 
 * A Plugin manager
 * [EMMET-VIM](https://vimawesome.com/plugin/emmet-vim)
-* [WEBAPI-VIM](https://vimawesome.com/plugin/emmet-vim)
+* [WEBAPI-VIM](https://github.com/mattn/webapi-vim)
 
 ## SOURCES & HELPFUL DOCS
 
