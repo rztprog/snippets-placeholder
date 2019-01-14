@@ -48,8 +48,14 @@ let g:user_emmet_settings = webapi#json#decode(join(readfile(expand('~/github/si
 
 ### HOW TO USE
 
-When you do the ```i:ph``` the cursor is placed end of url, you just need add a size like 150 or 150x150
-if you want to deepen the subject go the [PlaceHolder Website](https://placeholder.com/)
+When you do the ```i:ph``` the cursor is placed end of url, you just need add a size like ```150`` or ```150x150```
+if you want more go to [PlaceHolder Website](https://placeholder.com/)
+
+> In Example
+```
+<img src="https://via.placeholder.com/150x150" alt="">
+```
+
 
 ---
 
