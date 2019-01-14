@@ -32,7 +32,7 @@ i:ph
 
 1) Install [EMMET-VIM](https://vimawesome.com/plugin/emmet-vim) with your plugin manager
 2) Install [WEBAPI-VIM](https://github.com/mattn/webapi-vim) with your plugin manager
-3) Add the config line to your ***.vimrc*** by taking care of <style color="red">***change the path***</style>
+3) Add the config line to your ***.vimrc*** by taking care of ***change the path***
 
 ```
 let g:user_emmet_settings = webapi#json#decode(join(readfile(expand('CHANGE_THE_PATH_HERE')), "\n    "))
