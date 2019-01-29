@@ -9,7 +9,11 @@
 		"filters": "html",
 		"profile": "html",
 		"snippets": {
-			"i:ph": "img[src=\"https://via.placeholder.com/|\"]"
+			"img:ph": "img[src=\"https://via.placeholder.com/|\"]"
+		},
+
+		"abbreviations": {
+			"img:ph": "img[src=\"https://via.placeholder.com/|\"]"
 		}
 	}
 }
