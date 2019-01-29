@@ -9,6 +9,10 @@ Fastly image placeholder service snippet (From [placeholder.com](placeholder.com
 ```
 i:ph
 ```
+
+UPDATE 29 JANUARY:
+Commande change from "i:ph" to "img:ph"
+
 ---
 
 ## REQUIREMENTS
